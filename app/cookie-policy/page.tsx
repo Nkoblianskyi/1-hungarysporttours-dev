@@ -50,7 +50,7 @@ export default function CookiePolicyPage() {
               Cookie Szabályzat
             </h1>
             <p className="text-primary-foreground/70 text-sm">
-              Utoljára frissítve: 2024. január 1.
+              Utoljára frissítve: 2026
             </p>
           </div>
         </section>
