@@ -51,6 +51,8 @@ export default function Footer() {
               <span className="text-sm text-primary-foreground/70 leading-relaxed">
                 FISCUS NOSTRUM FUND SERVICES LIMITED
                 <br />
+                Myrianthous Anna
+                <br />
                 Panagioti Kaspi 5A.
                 <br />
                 Nicosia 1095, Cyprus
